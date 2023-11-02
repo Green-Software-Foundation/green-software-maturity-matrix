@@ -4,47 +4,20 @@
 
 The green software maturity matrix is a self-assessment tool. It helps organizations understand the extent to which they have implemented green principles, patterns, and processes for building and operating their software systems. The purpose is to “raise the floor and the ceiling.” I.e. to lift the behavior of the laggards on sustainable strategy and inspire those doing well to achieve more by showing what the leaders in this area are aiming for.
 
-
-#### Made up quotes
-
-"The GSF's maturity matrix allowed us to understand how far we have come and what we need to do next. It has given impetus and focus to our energy transition project." - Nero Cortex, CTO of HighlyDubious.AI
-
-"The maturity matrix helped us explain to our new client the service we were offering and what green software systems would look like for them. That allowed us to persuade them to invest time and effort in the project, knowing they could assess progress and prove it wasn't greenwashing." - Gaia Greengoody, TwoShoes Technology Consulting
-
-
-## Audience
-
-O’Reilly is publishing a book on the basics of [Building and Operating Green Software](https://www.oreilly.com/library/view/building-green-software/9781098150617/) (and other excellent but more specific stuff is already out there) but we need to understand how these principles and practices fit into a larger green strategy for tech companies and the tech organization of every enterprise. 
-
-What does good look like? And what is the best way to be green? For that, a maturity matrix is a useful tool. We are still at an early stage though. Any maturity matrix we draft now will evolve!
-
-The audience for a green software maturity matrix (GSMM) is:
-
-
-
-* Enterprise CTOs and internal green advocates, in order to guide their high-level journey and give them something to report progress against (we need to get more people going and going further).
-* Consultants offering green transition services (we hope to expand this sector).
-
-
 ## What is a maturity matrix?
 
 Maturity matrices are used in fields like project management and cybersecurity to help organizations grok where they currently stand in terms of best practices, as well as the steps they can take to achieve higher levels of performance. The green software maturity matrix is a framework for assessing the level of a tech organization’s ability to handle the energy transition. 
 
 The purpose of moving up the GSMM levels is not merely to be “ethical” or good. It is a risk management strategy to provide resilience to:
 
-
-
 * Tightening ESG and other (e.g. EU) reporting requirements around sustainable IT. 
 * Physical disruption to IT systems caused by climate change.
 * Pricing changes, for example the impact of highly differential dynamic electricity tariffs or reuse, repair, and recycle rules from the EU. 
 * Hiring and retaining employees who want to be part of the solution to humanity’s greatest challenge. This is particularly true for younger staff.
 
-
 ### The history of maturity matrices
 
 The Capability Maturity Model Integration (CMMI), which is a bit of a mouthful, was originally developed by the Software Engineering Institute (SEI) at Carnegie Mellon University. The CMMI is a framework for assessing and guiding organizations' process improvement efforts, and has 5 maturity levels:
-
-
 
 * Level 1: Initial - Processes are unpredictable, poorly controlled, and reactive at best.
 * Level 2: Reactively managed - Per-project processes. Often still reactive.
@@ -54,8 +27,6 @@ The Capability Maturity Model Integration (CMMI), which is a bit of a mouthful, 
 
 We reckon this broadly means:
 
-
-
 * Level 1: You are floundering. No organization level strategy. Maybe a few individuals who care and/or are knowledgeable. Purely reactive. This is where most of us are on being green at this point.
 * Level 2: You are starting to get some handle on it but without consistency. Mostly reactive. How advanced you are varies by project and team. You have the bare minimum of data.
 * Level 3: You are good. You have decent, basic org-wide green tech knowledge and data. You have defined processes for handling that data that are applied across your organization. 
@@ -63,8 +34,6 @@ We reckon this broadly means:
 * Level 5: You have ascended to the next plane of existence. You monitor and improve based on your real-time data. You give aspirational talks at tech conferences and what people are aspiring to is what you have been doing for ages. You are the tech equivalent of a being of pure energy. Think Yoda with a keyboard. 
 
 What does this mean in a green software context for an organization? This is tough. Almost all of us are at level 1 right now because going green is the most difficult project our industry faces.
-
-
 
 * Level 1 (Aspiring): You have individuals in your organization who care about green targets for technology but no systemic interest, processes or commitments. Some development teams measure their carbon emissions. This is where almost all of us are today.
 * Level 2 (Aware): You know your organization’s scope 1 and 2 emissions. You have a few projects driving greenness within your organization and beyond it using this data (by putting pressure on suppliers, for example). Your engineers have had some training in green systems, operations and patterns. 
@@ -75,16 +44,11 @@ What does this mean in a green software context for an organization? This is tou
 
 ### GSMM Scope
 
-
-
 * Small business: MM per company
 * SMEs: MM per company
 * Larger orgs: Maturity matrix per business unit rather than per company
 
-
 ### Axes (Matrix Rows)
-
-
 
 1. Whole organization energy commitments
     1. none/CZero by 2050
@@ -141,26 +105,17 @@ What does this mean in a green software context for an organization? This is tou
     44. only basic training needed - everything is green by default
     45. you train others in what you have achieved
 
-
 ## Solutions
 
 Start to list tools that are available that can help get to each level
 
-
 ### Level 1
-
 
 ### Level 2
 
-
 ### Level 3
-
-
-
 * You analyze cloud builds e.g. cloud carbon footprint tool. 
 
-
 ### Level 4
-
 
 ### Level 5
