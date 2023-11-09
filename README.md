@@ -14,9 +14,9 @@ The matrix addresses four problems. It answers the questions:
 
 ## Project Status
 
-This is project has just entered Incubation with the Green Software Foundation.
+This project entered the Green Software Foundation as a Draft Standard on 27 October 2023.
 
-> **This is an Incubation project being run inside the Green Software Foundation; as such, we don't recommend using it in any critical use case. Incubation projects are experimental, offer no support guarantee, have minimal governance and process, and may become dormant or end-of-life at any moment. This project may one day graduate, in which case this disclaimer will be removed.**
+> **THIS IS A DRAFT STANDARD  ONLY AND HAS NOT BEEN ADOPTED BY THE GREEN SOFTWARE FOUNDATION. THIS DRAFT STANDARD MAY NOT BE RELIED UPON FOR ANY PURPOSE OTHER THAN REVIEW OF THE CURRENT STATE OF DEVELOPMENT.**
 
 ## License
 [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
