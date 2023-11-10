@@ -20,18 +20,18 @@ The purpose of moving up the GSMM levels is not merely to be “ethical” or go
 
 The Capability Maturity Model Integration (CMMI), which is a bit of a mouthful, was originally developed by the Software Engineering Institute (SEI) at Carnegie Mellon University. The CMMI is a framework for assessing and guiding organizations' process improvement efforts, and has 5 maturity levels:
 
-[IMAGE GOES HERE]
+*[[PLACEHOLDER FOR CMMI IMAGE]]*
 
-- *Level 1 - Initial:* Processes are unpredictable, poorly controlled, and reactive at best.
-- *Level 2 - Reactively managed:* Per-project processes. Often still reactive.
-- *Level 3 - Defined:* Processes are standardized, documented, well understood and reviewed.
-- *Level 4 - Quantitatively Managed:* Processes are measured and controlled.
-- *Level 5 - Optimizing:* Continuous improvement occurs based on quantitative feedback.
+- **Level 1 - Initial:** Processes are unpredictable, poorly controlled, and reactive at best.
+- **Level 2 - Reactively managed:** Per-project processes. Often still reactive.
+- **Level 3 - Defined:** Processes are standardized, documented, well understood and reviewed.
+- **Level 4 - Quantitatively Managed:** Processes are measured and controlled.
+- **Level 5 - Optimizing:** Continuous improvement occurs based on quantitative feedback.
 
 We reckon this broadly means:
 
-- *Level 1:* You are floundering. No organization level strategy. Maybe a few individuals who care and/or are knowledgeable. Purely reactive. This is where most of us are on being green at this point.
-- *Level 2:* You are starting to get some handle on it but without consistency. Mostly reactive. How advanced you are varies by project and team. You have the bare minimum of data.
-- *Level 3:* You are good. You have decent, basic org-wide green tech knowledge and data. You have defined processes for handling that data that are applied across your organization.
-- *Level 4:* You are awesome. You can measure your progress dynamically (i.e. you have real -time data).
-- *Level 5:* You have ascended to the next plane of existence. You monitor and improve based on your real-time data. You give aspirational talks at tech conferences and what people are aspiring to is what you have been doing for ages. You are the tech equivalent of a being of pure energy. Think Yoda with a keyboard.
+- **Level 1:** You are floundering. No organization level strategy. Maybe a few individuals who care and/or are knowledgeable. Purely reactive. This is where most of us are on being green at this point.
+- **Level 2:** You are starting to get some handle on it but without consistency. Mostly reactive. How advanced you are varies by project and team. You have the bare minimum of data.
+- **Level 3:** You are good. You have decent, basic org-wide green tech knowledge and data. You have defined processes for handling that data that are applied across your organization.
+- **Level 4:** You are awesome. You can measure your progress dynamically (i.e. you have real -time data).
+- **Level 5:** You have ascended to the next plane of existence. You monitor and improve based on your real-time data. You give aspirational talks at tech conferences and what people are aspiring to is what you have been doing for ages. You are the tech equivalent of a being of pure energy. Think Yoda with a keyboard.

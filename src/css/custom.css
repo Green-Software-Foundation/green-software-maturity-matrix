@@ -64,6 +64,10 @@ body{
   font-size: 14px;
 }
 
+.theme-edit-this-page {
+  font-size: 80%;
+}
+
 .menu {
   font-size: 18px;
 }

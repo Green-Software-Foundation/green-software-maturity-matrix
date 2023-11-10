@@ -9,8 +9,7 @@ sidebar_label: Green Maturity Matrix
 
 What does this mean in a green software context for an organization? Let’s be realistic. Almost all enterprises are at level 1 right now. Going green is the most difficult project our industry faces.
 
-[PLACEHOLDER FOR GSMM VISUAL]
-
+[[PLACEHOLDER FOR GSMM VISUAL]]
 
 ## Level 1 - Aspiring
 You have individuals in your organization who care about green targets for technology but no systemic interest, processes or commitments. Some development teams measure their carbon emissions. This is where almost all of us are today.
@@ -26,3 +25,24 @@ You have a measurement system in place that is producing good real-time scope 1,
 
 ## Level 5 - Inspiring
 You’ve got there. You have achieved 24/7 CFE and require no more than 1% offsets to handle hard to shift embodied carbon. You have team level measurable goals (OKRs etc) for your CO2 measurements. You are optimizing for minimal CO2 emissions using your dynamic, real-time data. You and the services you rely on use real-time information including dynamic grid energy data to make rapid, quantitative decisions that allow you to be greener. This could (and probably will) be via a service you use rather than something you built yourself. You are already an SRE-aware organization that thinks in terms of error budgets for outages and downtime and you now think about carbon budgets in the same way. Using predictions based on factors such as weather and grid congestion, you change and move almost all of your workloads ahead of time to match your electricity requirements to local green power availability (aka 24/7 CFE) and any time sensitive workloads are highly optimized for minimal electricity use. You never cause hardware to become end of life either by lack of security patches or lack of backwards compatibility. You are ready for the energy transition and won’t be caught by surprise by sudden new rules or constraints.
+
+<hr />
+
+## Axes (Matrix Rows)
+
+* Whole organization energy commitments
+* Carbon footprint
+* Co2 equivalent metrics
+* Server resource management
+* Energy resource management
+* Minimize end user device embodied carbon waste (assume circular economy)
+* Minimize server hardware embodied carbon waste
+* Product management
+* Education
+
+<hr />
+
+## Scope
+* **Small business:** Maturity matrix per company
+* **Small and Midsize Enterprise (SME):** Maturity matrix per company
+* **Larger organization:** Maturity matrix per business unit rather than per company
