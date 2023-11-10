@@ -70,9 +70,14 @@ const config = {
           {
             href: "https://greensoftware.foundation/",
             position: "right",
-            label: "a Green Software Foundation project",
+            label: "Green Software Foundation project",
           },
         ],
+      },
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
       },
       footer: {
         style: "dark",

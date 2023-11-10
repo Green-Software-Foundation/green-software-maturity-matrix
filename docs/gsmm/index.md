@@ -2,7 +2,7 @@
 title: Levels of the Matrix
 description: TBC
 sidebar_position: 3
-sidebar_label: Green Software Maturity Matrix
+sidebar_label: Green Maturity Matrix
 ---
 
 # A Green Software Maturity Matrix
