@@ -16,8 +16,7 @@ const config = {
   url: 'https://your-docusaurus-site.example.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  // baseUrl: '/green-software-maturity-matrix',
-  baseUrl: '/',
+  baseUrl: '/green-software-maturity-matrix',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -46,7 +45,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/russelltrow/green-software-maturity-matrix/edit/dev/',
+            'https://github.com/Green-Software-Foundation/green-software-maturity-matrix/edit/dev/',
         },
         blog: false,
         theme: {
