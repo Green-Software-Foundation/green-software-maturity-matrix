@@ -16,8 +16,7 @@ const config = {
   url: 'https://maturity-matrix.greensoftware.foundation/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  // baseUrl: '/green-software-maturity-matrix',
-  baseUrl: '/',
+  baseUrl: '/green-software-maturity-matrix',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
