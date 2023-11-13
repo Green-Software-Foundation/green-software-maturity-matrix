@@ -9,11 +9,11 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Green Software Maturity Matrix',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'A green tech self assessment tool for organisations',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://maturity-matrix.greensoftware.foundation/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   // baseUrl: '/green-software-maturity-matrix',
@@ -46,7 +46,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/russelltrow/green-software-maturity-matrix/edit/dev/',
+            'https://github.com/Green-Software-Foundation/green-software-maturity-matrix/edit/dev/',
         },
         blog: false,
         theme: {
@@ -81,7 +81,7 @@ const config = {
         respectPrefersColorScheme: false,
       },
       announcementBar: {
-        id: 'support_us',
+        id: 'disclaimer',
         content:
           'This is a draft document only and has not been approved or adopted by the Green Software Foundation. this draft may not be relied upon for any purpose other than review of the current state of development.',
         backgroundColor: '#EBF2D7',
