@@ -2,7 +2,7 @@
 
 The Green Software Maturity Matrix is a self-assessment tool. It helps organisations understand the extent to which they have implemented green principles, patterns, and processes for building and operating their software systems.
 
-This project is run through the [Community Working Group](https://grnsft.org/community-wg) in the [Green Software Foundation](https://greensoftware.foundation)
+This project is run through the [Community Working Group](https://grnsft.org/community-wg) in the [Green Software Foundation](https://greensoftware.foundation).
 
 ## Scope
 The matrix addresses four problems. It answers the questions:
@@ -14,9 +14,9 @@ The matrix addresses four problems. It answers the questions:
 
 ## Project Status
 
-This project entered the Green Software Foundation as a Draft Standard on 27 October 2023.
+This project entered the Green Software Foundation as a Draft on 27 October 2023.
 
-> **THIS IS A DRAFT STANDARD  ONLY AND HAS NOT BEEN ADOPTED BY THE GREEN SOFTWARE FOUNDATION. THIS DRAFT STANDARD MAY NOT BE RELIED UPON FOR ANY PURPOSE OTHER THAN REVIEW OF THE CURRENT STATE OF DEVELOPMENT.**
+> **This is a draft document only and has not been approved or adopted by the Green Software Foundation. this draft may not be relied upon for any purpose other than review of the current state of development.**
 
 ## License
 [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
