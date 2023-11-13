@@ -16,4 +16,5 @@ The Green Software Maturity Matrix (GSMM) is a self-assessment tool. It helps or
 The Green Software Maturity Matrix is a project run through the [Community Working Group](https://grnsft.org/community-wg) in the [Green Software Foundation](https://greensoftware.foundation/).
 
 * [GitHub Repository](https://github.com/Green-Software-Foundation/green-software-maturity-matrix)
+* [Project Page](https://greensoftwarefoundation.atlassian.net/wiki/spaces/~612dd45e45cd76006a84071a/pages/82214913/Community+Green+Software+Maturity+Matrix)
 * [Project proposal](https://github.com/Green-Software-Foundation/oc/issues/46)
