@@ -12,7 +12,7 @@ You know your organization’s scope 1 and 2 emissions. You have a few projects 
 | ----------- | ----------- |
 | Whole organization energy commitments | CZero for scope 1, 2 and 3 by 2040 (note you may already be so-called “Carbon neutral”) |
 | Carbon footprint | you know what it is (scope 1 and 2) |
-| Co2 equivalent metrics | annual, quarterly or monthly numbers from all suppliers (including outsourcers) and own systems for scope 1/2 |
+| CO2 equivalent metrics | annual, quarterly or monthly numbers from all suppliers (including outsourcers) and own systems for scope 1/2 |
 | Server resource management | occasional spring cleans where you manually turn off idle or low value systems and delete/archive unneeded data |
 | Energy resource management | hosting in green regions/buying renewable energy |
 | Minimize end user device embodied carbon waste (assume circular economy) | some adhoc targets in place |

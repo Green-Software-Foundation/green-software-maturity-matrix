@@ -3,6 +3,7 @@ title: What is a Maturity Matrix?
 description: Maturity matrices are used in fields like project management and cybersecurity to help organizations grok where they currently stand in terms of best practices
 sidebar_position: 2
 sidebar_label: Maturity Matrix?
+hide_table_of_contents: true
 ---
 
 # What is a Maturity Matrix?

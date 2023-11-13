@@ -12,7 +12,7 @@ You have individuals in your organization who care about green targets for techn
 | ----------- | ----------- |
 | Whole organization energy commitments | none/CZero by 2050 |
 | Carbon footprint | you don’t know what it is |
-| Co2 equivalent metrics | No metrics |
+| CO2 equivalent metrics | No metrics |
 | Server resource management | No rightsizing takes place and zero knowledge about unused ”zombie” systems |
 | Energy resource management | None - running on demand |
 | Minimize end user device embodied carbon waste (assume circular economy) | No end user device longevity targets |

@@ -80,6 +80,14 @@ const config = {
         disableSwitch: true,
         respectPrefersColorScheme: false,
       },
+      announcementBar: {
+        id: 'support_us',
+        content:
+          'This is a draft document only and has not been approved or adopted by the Green Software Foundation. this draft may not be relied upon for any purpose other than review of the current state of development.',
+        backgroundColor: '#EBF2D7',
+        textColor: '#006d69',
+        isCloseable: false,
+      },
       footer: {
         style: "dark",
         links: [
