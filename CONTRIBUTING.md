@@ -18,13 +18,9 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 - [I Want To Contribute](#i-want-to-contribute)
   - [Reporting Bugs](#reporting-bugs)
   - [Suggesting Enhancements](#suggesting-enhancements)
-  - [Your First Code Contribution](#your-first-code-contribution)
-  - [Improving The Documentation](#improving-the-documentation)
-- [Styleguides](#styleguides)
-  - [Commit Messages](#commit-messages)
+- [Editing Content](#editing-content)
+- [Developing Locally](#developing-locally)
 - [Join The Project Team](#join-the-project-team)
-
-
 
 ## I Have a Question
 
@@ -85,23 +81,30 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/Green-
 
 <!-- You might want to create an issue template for enhancement suggestions that can be used as a guide and that defines the structure of the information to be included. If you do so, reference it here in the description. -->
 
-### Your First Code Contribution
-<!-- TODO
-include Setup of env, IDE and typical getting started instructions?
+## Editing Content
 
--->
+This project is a static website based on the project https://docusaurus.io, you can find more information about docusaurus here: https://docusaurus.io/docs
 
-### Improving The Documentation
-<!-- TODO
-Updating, improving and correcting the documentation
+The `docs` folder contains all of the material in this project, editing any file there in the `main` branch will update the website. If you are only interested in editing content on the website then you should not need to leave the `docs` folder.
 
--->
+The documentation files use a format called markdown and they end in `.md` which supports certain basic styling features like so: https://docusaurus.io/docs/markdown-features
 
-## Styleguides
-### Commit Messages
-<!-- TODO
+## Developing Locally
 
--->
+To edit this project on your local machine and see the output as it would be rendered on the website you will need `node` at least version 14 installed.
+
+We also recommend to use `yarn` as the package management solution as the deployment scripts use `yarn` not `npm`.
+
+`npm -g install yarn`
+
+`yarn install`
+
+Then to run the project locally type
+
+`yarn run docusaurus start`
+
+and visit https://localhost:3000 in your favorite browser or whatever the command above prints out in the terminal.
+
 
 ## Join The Project Team
 <!-- TODO -->
