@@ -9,7 +9,8 @@ sidebar_label: Green Maturity Matrix
 
 What does this mean in a green software context for an organization? Let’s be realistic. Almost all enterprises are at level 1 right now. Going green is the most difficult project our industry faces.
 
-[[PLACEHOLDER FOR GSMM VISUAL]]
+[![Green Software Maturity Matrix!](/img/maturity-matrix.svg "Green Software Maturity Matrix")](/img/maturity-matrix.svg)
+
 
 ## Level 1 - Aspiring
 You have individuals in your organization who care about green targets for technology but no systemic interest, processes or commitments. Some development teams measure their carbon emissions. This is where almost all of us are today.
